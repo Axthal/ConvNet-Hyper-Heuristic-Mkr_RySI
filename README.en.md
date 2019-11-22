@@ -1,7 +1,9 @@
 # ConvNet Hyper-Heuristic Maker - RySI
 *Leer esto en [Español](https://github.com/Axthal/ConvNet-Hyper-Heuristic-Mkr_RySI/blob/master/README.md)*
 
-Hyper-Heuristic generator of evolutionary Convolutional Neural Networks, as part of the master's thesis project in RySI, LANIA, Mexico, under supervision of Ph.D. Saúl Domínguez Isidro.
+Hyper-Heuristic generator of evolutionary Convolutional Neural Networks, as part of the master's thesis project in RySI: IMPLEMENTATION OF A HYPER HEURISTIC FOR DESIGN AND TRAINING ARTIFICIAL NEURAL NETWORKS FOR IMAGE CLASSIFICATION.
+
+LANIA University, Mexico. Develop by Alejandro Cabrera Lagunes, under supervision of Ph.D. Saúl Domínguez Isidro.
 
 ### General Description
 
