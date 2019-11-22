@@ -1,4 +1,4 @@
-# ConvNet-Hyper-Heuristic-Mkr_RySI
+# ConvNet Hyper-Heuristic Maker - RySI
 *Leer esto en [Español](https://github.com/Axthal/ConvNet-Hyper-Heuristic-Mkr_RySI/blob/master/README.md)*
 
 Hyper-Heuristic generator of evolutionary Convolutional Neural Networks, as part of the master's thesis project in RySI, LANIA, Mexico
