@@ -11,6 +11,13 @@ using System.Threading.Tasks;
 
 namespace CNN_RySI
 {
+    /// <summary>
+    /// Programa desarrollado para probar el enfoque propuesto en el trabajo recepcional: 
+    /// IMPLEMENTACIÓN DE UNA HIPERHEURÍSTICA PARA EL DISEÑO Y ENTRENAMIENTO DE REDES NEURONALES ARTIFICIALES PARA CLASIFICACIÓN DE IMÁGENES
+    /// De la maestría en Redes y Sistemas Integrados en LANIA
+    /// Por Alejandro Cabrera Lagunes
+    /// Bajo la supervisión del Dr. Saúl Domínguez Isidro
+    /// </summary>
     class Program
     {
 
