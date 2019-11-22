@@ -1,7 +1,7 @@
 # ConvNet Hyper-Heuristic Maker - RySI
 *Read this in [English](https://github.com/Axthal/ConvNet-Hyper-Heuristic-Mkr_RySI/blob/master/README.en.md)*
 
-Generador hiperheurístico de Redes Neuronales Convolucionales evolutivas, como parte del proyecto de tesis de maestría en RySI, LANIA, México
+Generador hiperheurístico de Redes Neuronales Convolucionales evolutivas, como parte del proyecto de tesis de maestría en RySI, LANIA, México, bajo la supervisión del Dr. Saúl Domínguez Isidro.
 
 ### Descripción General
 
